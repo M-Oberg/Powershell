@@ -1,4 +1,12 @@
 ﻿<#
+
+bkabkakbkakb
+
+abalblaba
+blab
+alba
+
+
 .SYNOPSIS   
 Script to add an AD User or group to the Local Administrator group
     
