@@ -1,0 +1,7 @@
+Name,Role,IP,SubnetName,Size,CloudService,AvailabilitySet,InternalLB
+AZURE-DC1,Domain Controller,10.255.255.4,Azure-Internal,Small,365lab-azr01,None,
+AZURE-AADSYNC1,DirSync/AADSync,10.255.255.5,Azure-Internal,Medium,365lab-azr01,None,
+AZURE-ADFS1,ADFS Server,10.255.255.6,Azure-Internal,Small,365lab-sts,sts-365lab,10.255.255.10
+AZURE-ADFS2,ADFS Server,10.255.255.7,Azure-Internal,Small,365lab-sts,sts-365lab,10.255.255.10
+AZURE-WAP1,Web Application Proxy,10.255.255.132,Azure-Perimeter,Small,365lab-wap,wap-365lab,
+AZURE-WAP2,Web Application Proxy,10.255.255.133,Azure-Perimeter,Small,365lab-wap,wap-365lab,
